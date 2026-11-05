@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Sivapratha!
 
-<!--
-**sivapratha-g/Sivapratha-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Machine Learning Engineer | Python Developer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning Python and Machine Learning.
+- 💻 Interested in Data Science and Generative AI.
+- 📊 Learning Pandas, NumPy and Matplotlib.
+- 🤖 Exploring Machine Learning algorithms.
+- 🚀 Interested in building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- MySQL
+- Machine Learning
+
+### 📂 My Projects
+
+1. Weather Prediction using Machine Learning
+2. Student Marks Prediction using Linear Regression
+3. Spam Detection using Naive Bayes
+
+### 📫 Connect with me
+- GitHub:(https://github.com/sivapratha-g/Sivapratha-G)
+
+---
+
+⭐ Thank you for visiting my profile!
